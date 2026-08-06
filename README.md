@@ -1,149 +1,123 @@
-<h1 align="center">Hi 👋, I'm Rounak Kumar Lakhara</h1>
+<div align="center">
 
-<h3 align="center">
-First-Year B.Tech CSE (Artificial Intelligence) Student | AI Enthusiast | Software Developer
-</h3>
+# Hi 👋, I'm Rounak Kumar Lakhara
 
-<p align="center">
-Passionate about building impactful software, exploring Artificial Intelligence, and solving real-world problems through code.
-</p>
+### 🚀 AI Engineer in Progress | Full Stack Developer | Open Source Learner
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=FF3B3B&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Python+%7C+Java+%7C+C%2B%2B;Building+Projects+Everyday;Always+Learning+New+Things" />
 
-## 🚀 About Me
-
-🎓 First-Year B.Tech CSE (Artificial Intelligence) Student
-
-🏫 Swaminarayan University, Ahmedabad
-
-💻 Learning Full Stack Development & Artificial Intelligence
-
-🌱 Currently improving my Data Structures & Algorithms skills
-
-🤖 Interested in Machine Learning, Web Development, and Open Source
-
-🎯 Goal: Become a skilled Software Engineer and AI Developer
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
+
+🎓 First-Year B.Tech CSE (Artificial Intelligence)
+
+🏫 Swaminarayan University
+
+💻 Passionate about Software Development & AI
+
+🌱 Currently learning
+
+- Data Structures & Algorithms
+- React.js
+- Node.js
+- Machine Learning
+- Git & GitHub
+
+🎯 Goal
+
+Become an AI Engineer and Full Stack Developer while contributing to Open Source.
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-- Python
-- Java
-- C++
-- JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript"/>
+</p>
 
 ### Frontend
 
-- HTML5
-- CSS3
-- React.js
-- Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js (Learning)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
 ### Database
 
-- MySQL
-- MongoDB (Learning)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Postman
-
----
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Artificial Intelligence
-- Machine Learning Fundamentals
-- React.js
-- Backend Development
-- Git & GitHub
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Solve 300+ DSA Problems
-- ✅ Build 10+ Real Projects
-- ✅ Contribute to Open Source
-- ✅ Learn MERN Stack
-- ✅ Explore AI & Machine Learning
-- ✅ Get Internship
-
----
-
-## 📂 Featured Projects
-
-🔹 AI Chatbot
-
-🔹 Student Management System
-
-🔹 Weather App
-
-🔹 Portfolio Website
-
-🔹 Task Manager
-
-*(Projects will be added soon.)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-## 💻 Most Used Languages
+# 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=Rounak-Lakhara&theme=tokyonight&show_icons=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+![](https://streak-stats.demolab.com?user=Rounak-Lakhara&theme=tokyonight)
 
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounak-Lakhara&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with Me
+# 🏆 GitHub Trophies
 
-💼 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
-
-💻 GitHub:
-https://github.com/YOUR_USERNAME
-
-📧 Email:
-yourmail@example.com
+![](https://github-profile-trophy.vercel.app/?username=Rounak-Lakhara&theme=algolia&margin-w=15)
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Rounak-Lakhara&theme=tokyo-night)
+
+---
+
+# 🚀 Current Focus
+
+✔ Artificial Intelligence
+
+✔ Full Stack Development
+
+✔ DSA
+
+✔ Open Source
+
+✔ Building Real Projects
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn
+
+🔗 https://linkedin.com/in/YOUR-LINKEDIN
+
+📧 Email
+
+yourmail@gmail.com
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+*"Code • Learn • Build • Innovate"*
+
+</div>
