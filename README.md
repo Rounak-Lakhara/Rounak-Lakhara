@@ -118,7 +118,7 @@ Become an AI Engineer and Full Stack Developer while contributing to Open Source
 
 📧 Email
 
-📧 rounaklakharacg@gmailcom
+📧 rounak.lakhara.cg@gmailcom
 
 <div align="center">
 
