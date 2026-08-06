@@ -8,6 +8,14 @@
 
 </div>
 
+
+
+
+
+
+
+
+
 ---
 
 # 👨‍💻 About Me
@@ -106,13 +114,11 @@ Become an AI Engineer and Full Stack Developer while contributing to Open Source
 
 💼 LinkedIn
 
-🔗 https://linkedin.com/in/YOUR-LINKEDIN
+🔗 https://www.linkedin.com/in/rounak-kumar-lakhara-0311b937a/
 
 📧 Email
 
-yourmail@gmail.com
-
----
+📧 rounaklakharacg@gmailcom
 
 <div align="center">
 
