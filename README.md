@@ -59,8 +59,8 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **PixelRush Hackathon Website** | Built with Team **RenderX** for the CodingGita PixelRush 2026 UI/UX + Frontend Hackathon | HTML · CSS · JS · Figma |
-| **HTML Master Pro** | MCQ practice web app; evolving into a "upload any PDF → get MCQs by subject" platform | TanStack Start · Supabase |
+| **EventHub** | Built with Team **RenderX** for the CodingGita PixelRush 2026 UI/UX + Frontend Hackathon | HTML · CSS · JS · Figma |
+| **PseudoIQ** | MCQ practice web app; evolving into a "upload any PDF → get MCQs by subject" platform | In progress |
 | **Minecraft-style Portfolio** | Interactive portfolio with a Minecraft hotbar UI, 3D backgrounds and my own skin | In progress |
 | **"The Series" Portfolio** | Netflix-style portfolio, adapted from an open-source React template | React · TypeScript · Vite |
 
