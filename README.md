@@ -10,13 +10,7 @@
   <samp>「 First-year B.Tech CSE (AI) student building web projects and learning to think like a programmer 」</samp>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Rounak-Lakhara"><img src="./docs/assets/svg/github_btn.svg" height="48" alt="Open Rounak-Lakhara on GitHub" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/rounak-kumar-lakhara-52825b427/"><img src="./docs/assets/svg/linkedin_btn.svg" height="48" alt="Open Rounak Kumar Lakhara on LinkedIn" /></a>
-  &nbsp;
-  <img src="./docs/assets/svg/status_badge.svg" height="48" alt="Status: learning JavaScript, building PixelRush, open to collab" />
-</p>
+
 
 <p align="center">
   <img src="./docs/assets/svg/hero_card.svg" width="82%" alt="Terminal card: Rounak Kumar Lakhara, B.Tech CSE (AI) first year, learner at CodingGita" />
